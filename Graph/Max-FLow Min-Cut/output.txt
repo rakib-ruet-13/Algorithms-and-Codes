@@ -1,0 +1,13 @@
+Case 1:
+010
+100
+001
+Case 2: impossible
+Case 3: impossible
+Case 4:
+111100001
+001011110
+Case 5:
+100
+110
+111
